@@ -21,7 +21,10 @@ Terminology And Translations
 * ctime: converts it to a C-string containing a human-readable version
 
 * time tuple:(year=2017, month=10, day=10...) 时间元组 
-* time_v: 15999999.99 时间戳
+* timestamp time_v: 15999999.99 时间戳
+
+* JSON: JavaScript Object Notation
+* BSON: Binary JSON
 
 
 <!-- vim: se ai si et ts=4 sw=4 ft=markdown ff=unix fenc=utf-8: -->

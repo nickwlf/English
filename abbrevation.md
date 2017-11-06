@@ -27,4 +27,7 @@ Terminology And Translations
 * BSON: Binary JSON
 
 
+* xdg-open / xdg: X Desktop Group
+
+
 <!-- vim: se ai si et ts=4 sw=4 ft=markdown ff=unix fenc=utf-8: -->

@@ -29,5 +29,13 @@ Terminology And Translations
 
 * xdg-open / xdg: X Desktop Group
 
+* skeleton
+* framework
+* template
+
+
+* snip
+
+* sun corp. 昇阳
 
 <!-- vim: se ai si et ts=4 sw=4 ft=markdown ff=unix fenc=utf-8: -->

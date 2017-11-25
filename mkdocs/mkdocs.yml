@@ -1,6 +1,9 @@
 site_name: Relationship Oriented Schema For WORDS
 pages:
   - Home: index.md
+  - Sentence: Sentences.md
   - About: about.md
 theme: windmillex
+plugins:
+  - search
 #theme: material

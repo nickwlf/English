@@ -17,3 +17,19 @@
 + `air-gapped systems`: 隔离系统
 ## 值得收藏的短语
 + `sometime in the coming decades`: 未来的几十年间
+
+
+* `take sth. into account`
+    + v. 重视，考虑， 顾及
+    + "Vim will take other mappings into account."
+
+* `side effect`
+    + 副作用
+    + tedious: adj. 单调枯燥的。
+    + error-prone: adj. 容易出错的。
+
+
+<!--
+vim:nocp:ai:si:et:ts=4:sts=4:sw=4:ft=markdown.pandoc:ff=unix:fenc=utf-8:
+EOF
+-->
